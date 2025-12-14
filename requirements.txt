@@ -1,0 +1,12 @@
+gradio>=4.0
+groq
+faster-whisper
+torch
+torchaudio
+pydub
+soundfile
+ffmpeg-python
+python-dotenv
+requests
+pandas
+rapidfuzz
